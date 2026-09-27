@@ -1,0 +1,6 @@
+{
+  "name": "Cavot — Pure Search Engine",
+  "description": "Cavot is an ultra-fast, modern monochrome search engine featuring screen time tracking, instant quick search shortcuts, and minimalist black and white design.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
